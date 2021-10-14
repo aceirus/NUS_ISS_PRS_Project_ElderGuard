@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Elder Guard App</string>
+    <string name="take_pic_button">Take Picture</string>
+    <string name="select_pic_button">Select Screenshot</string>
+    <string name="predict_button">PREDICT</string>
+    <string name="readsms_button">READ LAST SMS</string>
+    <string name="CapturedImg">capturedimg</string>
+    <string name="predict_text">Predict Text</string>
+    <string name="predict_result">Predicted Result (Details)</string>
+</resources>
