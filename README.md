@@ -2,7 +2,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## ElderGuard <br>
 
-An Android app for the elderlies to filter spam text, malicious and phsihing URLs
+An Android app that helps the elderlies in filtering spam text, malicious and phsihing URLs in mobile text messages
 
 <p align="center">
   <img alt="Light" src="Miscellaneous/App_Interface.png" width="30%">
