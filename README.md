@@ -1,4 +1,4 @@
----
+
 # ElderGuard <br>
 
 An Android app that helps the elderlies in filtering spam text, malicious and phsihing URLs in mobile text messages
@@ -10,7 +10,7 @@ An Android app that helps the elderlies in filtering spam text, malicious and ph
 &nbsp; &nbsp; &nbsp; &nbsp;
    <img alt="Dark" src="Miscellaneous/App_NotSafe.png" width="30%">
 </p>
-
+---
 ## EXECUTIVE SUMMARY
 With Singapore moving towards digitalization, elderlies are starting to embrace the use of smart phones in their daily lives. This inadvertently exposes them to malicious content that send through their smart phones. When our elderlies, who may not be tech-savvy, receive messages containing malicious link or spam, they might unknowingly click on malicious contents without second thoughts. As a results, it leads to financial loss or identity theft if the link is unsafe or malicious. 
 
