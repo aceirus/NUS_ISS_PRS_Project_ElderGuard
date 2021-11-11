@@ -29,7 +29,7 @@ Yeong Wee Ping
 
 ---
 
-## ELDERGUARD - USER INTERFACE
+## ELDERGUARD - FINAL PRESENTATION
   
 <a href="https://www.youtube.com/watch?v=bx-K5ZZj7DQ">
 </a>
