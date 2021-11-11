@@ -21,9 +21,9 @@ An Android application, ElderGuard, is built for users to forward messages and o
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-Team:
-Lim Jun Ming
-Mediana
+Team:<br>
+Lim Jun Ming<br>
+Mediana<br>
 Yeong Wee Ping
 
 ---
