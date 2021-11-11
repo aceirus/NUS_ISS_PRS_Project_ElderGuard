@@ -1,0 +1,14 @@
+flask
+gunicorn
+requests
+
+# For Spam Text Module
+numpy
+pandas
+nltk
+sklearn
+tensorflow-cpu
+
+# For URL Modules
+tldextract
+joblib
