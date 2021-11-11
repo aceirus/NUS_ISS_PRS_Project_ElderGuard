@@ -29,7 +29,7 @@ Yeong Wee Ping
 
 ---
 
-## ELDERGUARD - FINAL PRESENTATION
+## ELDERGUARD - FINAL PRESENTATION & DEMO
   
 <a href="https://www.youtube.com/watch?v=bx-K5ZZj7DQ">
 </a>
