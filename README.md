@@ -3,11 +3,11 @@
 ## ElderGuard
 
 <p align="center">
-  <img alt="Light" src="Miscellaneous/App_Interface.png" width="45%">
+  <img alt="Light" src="Miscellaneous/App_Interface.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="Miscellaneous/App_Safe.png" width="45%">
+  <img alt="Dark" src="Miscellaneous/App_Safe.png" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-   <img alt="Dark" src="Miscellaneous/App_NotSafe.png" width="45%">
+   <img alt="Dark" src="Miscellaneous/App_NotSafe.png" width="30%">
 </p>
 
 ## SECTION 2 : EXECUTIVE SUMMARY
