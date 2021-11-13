@@ -1,7 +1,7 @@
 
 # ElderGuard <br>
 
-An Android app that helps the elderlies in filtering spam text, malicious and phsihing URLs in mobile text messages
+An Android app that helps the elderlies in filtering spam text, malicious and phishing URLs in mobile text messages
 
 <p align="center">
   <img alt="Light" src="Miscellaneous/App_Interface.png" width="30%">
