@@ -32,8 +32,10 @@ Yeong Wee Ping
 ---
 
 ## ELDERGUARD - FINAL PRESENTATION & DEMO
-  
+
 <a href="https://www.youtube.com/watch?v=bx-K5ZZj7DQ">
+<img src="Miscellaneous/Presentation_Cover.jpg"
+   style="float: left; margin-right: 0px;" />
 </a>
 
 PRS-PM - ELDERGUARD - MACHINE LEARNIN BASED PREDICTION - SPAM TEXT - MALICIOUS URL - PHISHING URL
